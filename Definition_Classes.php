@@ -54,7 +54,7 @@ class Personne {
 		$this->num . '<br/>';
 		$this->nom . '<br/>'; 
 		$this->prenom . '<br/>'; 
-		$this->entreprise->nom . '<br/>';
+		$this->entreprise->nom .. '<br/>';
 	}
 
 	public calculerSalaire() {
